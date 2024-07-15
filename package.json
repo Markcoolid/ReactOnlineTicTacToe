@@ -22,15 +22,6 @@
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
   },
-  "scripts":{
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build","
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-    
-  }
   "dependencies": {
     "peerjs": "^1.5.4",
     "simple-peer": "^9.11.1"
